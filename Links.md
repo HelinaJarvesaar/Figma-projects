@@ -19,5 +19,5 @@
 17. Figma Advanced tips: https://www.youtube.com/watch?v=AMOSSNJLvCU
 18. Figma Design to code: https://www.animaapp.com
 19. Compression: https://tinypng.com
-20. HTML UTF-8 (sümbolite koodid): https://www.w3schools.com/charsets/ref_utf_symbols.asp
+20. HTML UTF-8 symbols: https://www.w3schools.com/charsets/ref_utf_symbols.asp
     
