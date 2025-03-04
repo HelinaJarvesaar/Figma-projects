@@ -21,3 +21,4 @@
 19. Compression: https://tinypng.com
 20. HTML UTF-8 symbols: https://www.w3schools.com/charsets/ref_utf_symbols.asp
 21. Google fonts: https://fonts.google.com
+22. Clip path generator: https://bennettfeely.com/clippy/
