@@ -1,4 +1,4 @@
-## tehtud tööd:
+## my works:
 
 Portfolio:
 https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=TxdhXZyTFfohFkmI-1
