@@ -14,6 +14,8 @@ https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=62-199&p=
 
 **Responsive Design:**
 
+https://helinajarvesaar.github.io/myPortfolio/
+
 
 **Screenshots:**
 
