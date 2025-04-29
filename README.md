@@ -55,4 +55,14 @@ https://helinajarvesaar.github.io/mySecondPage/
 
 https://github.com/HelinaJarvesaar/mySecondPage.git
 
+**Screenshots:**
+
+<img width="500" alt="435704881-8bbc3183-2f85-40aa-b39d-da06f4ffddc9" src="https://github.com/user-attachments/assets/6f14a330-5f0c-431f-9eba-1ebd7279c87f" />
+<img width="500" alt="435705519-683bd2df-7fee-4dcc-906d-062e37667071" src="https://github.com/user-attachments/assets/fbdac620-705a-4bc3-ab9d-5d0d226cc085" />
+<img width="500" alt="435705672-f4e3af0e-1037-43d6-8d66-c7691955078a" src="https://github.com/user-attachments/assets/bc83fba1-d44e-42a1-a72c-bc969819557a" />
+<img width="500" alt="435705887-9fba8b17-caf4-49a2-a121-7b0adc9b949f" src="https://github.com/user-attachments/assets/c86bbab7-0994-4935-b3f4-003652a91769" />
+<img width="500" alt="435706837-d7c82b71-525e-48e0-a1dd-c4e7f543a08e" src="https://github.com/user-attachments/assets/aaee72d9-43c4-411c-be51-cb1fa7ada88c" />
+<img width="500" alt="435706102-c99e3a19-9d12-45ee-9cea-5c20f663f2b0" src="https://github.com/user-attachments/assets/118a9c6a-20da-435a-9cee-f67f0fef2ef9" />
+
+
 
