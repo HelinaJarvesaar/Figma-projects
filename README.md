@@ -40,3 +40,19 @@ https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187
 <img width="215" alt="Screenshot 2025-04-29 at 17 11 38" src="https://github.com/user-attachments/assets/6c9d3224-3aeb-459c-9b15-2ef25c7ac7cd" />
 <img width="243" alt="Screenshot 2025-04-29 at 17 12 02" src="https://github.com/user-attachments/assets/fc524358-4620-4d71-9f30-ecd7493b38b2" />
 
+
+## 3. "Meelerahu" page
+
+**Figma project made with Victoria Paulsaar:**
+
+https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1
+
+**This is my second HTML page:**
+
+https://helinajarvesaar.github.io/mySecondPage/
+
+**GitHub Repo:**
+
+https://github.com/HelinaJarvesaar/mySecondPage.git
+
+
