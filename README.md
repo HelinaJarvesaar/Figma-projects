@@ -1,4 +1,4 @@
-# My frontend & Figma Projects
+# My Web Design & Figma Projects
 
 
 
@@ -12,7 +12,11 @@ https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&
 
 https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=62-199&p=f&t=1CPC4mlxVUhNlZbL-1&scaling=scale-down&content-scaling=fixed&page-id=39%3A966
 
-**HTML, CSS, JavaScript Responsive Design:**
+**GitHub repo (HTML, CSS, JavaScript codes):**
+
+https://github.com/HelinaJarvesaar/myPortfolio.git
+
+**Responsive Design Page:**
 
 https://helinajarvesaar.github.io/myPortfolio/
 
@@ -45,7 +49,11 @@ https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187
 
 ## 3. Luxury Jewelry page
 
-**HTML, CSS Responsive Design:**
+**GitHub repo (HTML, CSS codes):**
+
+https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git
+
+**Responsive Design page:**
 
 https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/
 
@@ -60,11 +68,11 @@ https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/
 
 https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1
 
-**HTML, CSS, JavaScript - This is my second HTML page:**
+**This is my second HTML page:**
 
 https://helinajarvesaar.github.io/mySecondPage/
 
-**GitHub Repo:**
+**GitHub Repo (HTML, CSS codes):**
 
 https://github.com/HelinaJarvesaar/mySecondPage.git
 
