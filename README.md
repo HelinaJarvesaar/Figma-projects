@@ -1,18 +1,18 @@
-# My Figma Projects
+# My frontend & Figma Projects
 
 
 
 ## 1. Sample Portfolio
 
-**Project:**
+**Figma Project:**
 
 https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=4FbRWBSk8xvpYJKA-1
 
-**Desktop Prototype:**
+**Figma Desktop Prototype:**
 
 https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=62-199&p=f&t=1CPC4mlxVUhNlZbL-1&scaling=scale-down&content-scaling=fixed&page-id=39%3A966
 
-**Responsive Design:**
+**HTML, CSS, JavaScript Responsive Design:**
 
 https://helinajarvesaar.github.io/myPortfolio/
 
@@ -26,11 +26,11 @@ https://helinajarvesaar.github.io/myPortfolio/
 
 ## 2. Apple Pie Recipe
 
-**Project:**
+**Figma Project:**
 
 https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1
 
-**Mobile View Prototype:**
+**Figma Mobile View Prototype:**
 
 https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102
 
@@ -43,13 +43,24 @@ https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187
 <img width="243" alt="Screenshot 2025-04-29 at 17 12 02" src="https://github.com/user-attachments/assets/fc524358-4620-4d71-9f30-ecd7493b38b2" />
 
 
-## 3. "Meelerahu" page
+## 3. Luxury Jewelry page
+
+**HTML, CSS Responsive Design:**
+
+https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/
+
+**Screenshot:**
+
+<img width="600" alt="Screenshot 2025-05-03 at 00 21 11" src="https://github.com/user-attachments/assets/53488575-7c78-4698-af4f-c9b3efa78955" />
+
+
+## 4. "Meelerahu" page
 
 **Figma project made with Victoria Paulsaar:**
 
 https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1
 
-**This is my second HTML page:**
+**HTML, CSS, JavaScript - This is my second HTML page:**
 
 https://helinajarvesaar.github.io/mySecondPage/
 
