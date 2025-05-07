@@ -25,3 +25,4 @@
 23. CSS Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 24. http://moonlearning.io
 25. AI-created colorpaletts: http://colormind.io
+26. AI for Auto-layout generation: https://uizard.io
