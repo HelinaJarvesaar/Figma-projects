@@ -35,7 +35,7 @@
 <img width="243" alt="Screenshot 2025-04-29 at 17 12 02" src="https://github.com/user-attachments/assets/fc524358-4620-4d71-9f30-ecd7493b38b2" />
 
 
-## 3. Luxury Jewelry page
+## 3. Luxury Jewelry Webpage
 
 [**GitHub repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
 
