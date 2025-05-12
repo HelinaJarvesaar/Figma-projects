@@ -10,7 +10,7 @@
 
 [**GitHub repo (HTML, CSS, JavaScript codes)**](https://github.com/HelinaJarvesaar/myPortfolio.git)
 
-[**Responsive Design Page**](https://helinajarvesaar.github.io/myPortfolio/)
+[**Responsive Design Webpage**](https://helinajarvesaar.github.io/myPortfolio/)
 
 
 **Screenshots:**
@@ -39,18 +39,18 @@
 
 [**GitHub repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
 
-[**Responsive Design page**](https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/)
+[**Responsive Design Webpage**](https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/)
 
 **Screenshot:**
 
 <img width="600" alt="Screenshot 2025-05-03 at 00 21 11" src="https://github.com/user-attachments/assets/53488575-7c78-4698-af4f-c9b3efa78955" />
 
 
-## 4. "Meelerahu" page
+## 4. "Meelerahu" webpage
 
 [**Figma project made with Victoria Paulsaar**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
 
-[**This is my second HTML page**](https://helinajarvesaar.github.io/mySecondPage/)
+[**This is my second HTML Webpage**](https://helinajarvesaar.github.io/mySecondPage/)
 
 [**GitHub Repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/mySecondPage.git)
 
