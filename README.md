@@ -4,21 +4,13 @@
 
 ## 1. Sample Portfolio
 
-**Figma Project:**
+[**Figma Project**](https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=4FbRWBSk8xvpYJKA-1)
 
-https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=4FbRWBSk8xvpYJKA-1
+[**Figma Mobile Prototype**](https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-967&p=f&t=chj3dTZFTtzEDr1R-1&scaling=scale-down&content-scaling=fixed&page-id=39%3A964&starting-point-node-id=39%3A967)
 
-**Figma Mobile Prototype:**
+[**GitHub repo (HTML, CSS, JavaScript codes)**](https://github.com/HelinaJarvesaar/myPortfolio.git)
 
-https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-967&p=f&t=chj3dTZFTtzEDr1R-1&scaling=scale-down&content-scaling=fixed&page-id=39%3A964&starting-point-node-id=39%3A967
-
-**GitHub repo (HTML, CSS, JavaScript codes):**
-
-https://github.com/HelinaJarvesaar/myPortfolio.git
-
-**Responsive Design Page:**
-
-https://helinajarvesaar.github.io/myPortfolio/
+[**Responsive Design Page**](https://helinajarvesaar.github.io/myPortfolio/)
 
 
 **Screenshots:**
@@ -30,13 +22,9 @@ https://helinajarvesaar.github.io/myPortfolio/
 
 ## 2. Apple Pie Recipe
 
-**Figma Project:**
+[**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1)
 
-https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1
-
-**Figma Mobile View Prototype:**
-
-https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102
+[**Figma Mobile View Prototype**](https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102)
 
 **Screenshots:**
 
@@ -49,13 +37,9 @@ https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187
 
 ## 3. Luxury Jewelry page
 
-**GitHub repo (HTML, CSS codes):**
+[**GitHub repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
 
-https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git
-
-**Responsive Design page:**
-
-https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/
+[**Responsive Design page**](https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/)
 
 **Screenshot:**
 
@@ -64,17 +48,11 @@ https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/
 
 ## 4. "Meelerahu" page
 
-**Figma project made with Victoria Paulsaar:**
+[**Figma project made with Victoria Paulsaar**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
 
-https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1
+[**This is my second HTML page**](https://helinajarvesaar.github.io/mySecondPage/)
 
-**This is my second HTML page:**
-
-https://helinajarvesaar.github.io/mySecondPage/
-
-**GitHub Repo (HTML, CSS codes):**
-
-https://github.com/HelinaJarvesaar/mySecondPage.git
+[**GitHub Repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/mySecondPage.git)
 
 **Screenshots:**
 
