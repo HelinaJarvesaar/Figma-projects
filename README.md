@@ -26,6 +26,10 @@
 
 ## 2. Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
 
+- I created this as a UX/UI learning project to explore mobile-first cooking tools that are easy to use while actually cooking.
+- Problem - People often cook with phones nearby but find it hard to scroll, read long texts, or track steps while multitasking.
+- Goal - Create a mobile app that lets users quickly find and follow recipes with large steps, simple navigation, and minimal distractions.
+
 [**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1)
 
 [**Figma Mobile View Prototype**](https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102)
@@ -52,7 +56,9 @@
 
 ## 4. "Meelerahu" webpage
 
-[**Figma project made with Victoria Paulsaar**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
+- I created this as my graduation/final project to apply design principles, responsive layout, and front-end skills in a live website. While it’s not a product or app, it reflects my evolving design taste and my ability to take a Figma design to functional code.
+
+[**Figma project made together with Victoria Paulsaar**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
 
 [**This is my second HTML Webpage**](https://helinajarvesaar.github.io/mySecondPage/)
 
