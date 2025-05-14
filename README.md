@@ -1,4 +1,4 @@
-# 1. Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
+# Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
 
 ## Overview:
 
