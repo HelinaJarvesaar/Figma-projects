@@ -1,6 +1,4 @@
-# My Web Design & Figma Projects
-
-## 1. Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
+# 1. Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
 
 - I created this as a UX/UI learning project to explore mobile-first cooking tools that are easy to use while actually cooking.
 - Problem - People often cook with phones nearby but find it hard to scroll, read long texts, or track steps while multitasking.
@@ -19,7 +17,7 @@
 <img width="243" alt="Screenshot 2025-04-29 at 17 12 02" src="https://github.com/user-attachments/assets/fc524358-4620-4d71-9f30-ecd7493b38b2" />
 
 
-## 2. Portfolio Website — Built as Part of Figma & Front-End Learning Program
+# 2. Portfolio Website — Built as Part of Figma & Front-End Learning Program
 
 - This project followed a guided course curriculum where I practiced implementing a design brief from a tutor. While the visual style was provided, I focused on responsive layout, HTML/CSS, and building a live site from a Figma file.
 - In hindsight, I’d redesign the visuals to better reflect my style — but this version shows my ability to follow structure, build to spec, and deploy a live result.
