@@ -42,37 +42,4 @@
 <img width="700" alt="Screenshot 2025-05-14 at 18 50 31" src="https://github.com/user-attachments/assets/049db8cb-9bd9-4847-bac9-2d0415e9930f" />
 
 
-## 3. Luxury Jewelry Landing Page – Visual & Front-End Practice
-
-- I created this marketing-style landing page as a visual and front-end coding exercise. While it’s not based on a UX case study, it shows my ability to work with layout, branding, and responsive design principles.
-
-[**GitHub repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
-
-[**Responsive Design Webpage**](https://helinajarvesaar.github.io/littleLuxuryJewerlyPage/)
-
-**Screenshot:**
-
-<img width="600" alt="Screenshot 2025-05-03 at 00 21 11" src="https://github.com/user-attachments/assets/53488575-7c78-4698-af4f-c9b3efa78955" />
-
-
-## 4. "Meelerahu" webpage
-
-- I created this as my graduation/final project to apply design principles, responsive layout, and front-end skills in a live website. While it’s not a product or app, it reflects my evolving design taste and my ability to take a Figma design to functional code.
-
-[**Figma project made together with Victoria Paulsaar**](https://www.figma.com/design/hILPBoXRytGOJiw7LP6oXy/L%C3%B5put%C3%B6%C3%B6?node-id=8733-2&t=1lGsJF1CKYOLnaUD-1)
-
-[**This is my second HTML Webpage**](https://helinajarvesaar.github.io/mySecondPage/)
-
-[**GitHub Repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/mySecondPage.git)
-
-**Screenshots:**
-
-<img width="500" alt="435704881-8bbc3183-2f85-40aa-b39d-da06f4ffddc9" src="https://github.com/user-attachments/assets/6f14a330-5f0c-431f-9eba-1ebd7279c87f" />
-<img width="500" alt="435705519-683bd2df-7fee-4dcc-906d-062e37667071" src="https://github.com/user-attachments/assets/fbdac620-705a-4bc3-ab9d-5d0d226cc085" />
-<img width="500" alt="435705672-f4e3af0e-1037-43d6-8d66-c7691955078a" src="https://github.com/user-attachments/assets/bc83fba1-d44e-42a1-a72c-bc969819557a" />
-<img width="500" alt="435705887-9fba8b17-caf4-49a2-a121-7b0adc9b949f" src="https://github.com/user-attachments/assets/c86bbab7-0994-4935-b3f4-003652a91769" />
-<img width="500" alt="435706837-d7c82b71-525e-48e0-a1dd-c4e7f543a08e" src="https://github.com/user-attachments/assets/aaee72d9-43c4-411c-be51-cb1fa7ada88c" />
-<img width="500" alt="435706102-c99e3a19-9d12-45ee-9cea-5c20f663f2b0" src="https://github.com/user-attachments/assets/118a9c6a-20da-435a-9cee-f67f0fef2ef9" />
-
-
 
