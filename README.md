@@ -12,7 +12,7 @@
 
 ## Project Links:
 
-- [**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1)
+- [**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=wpHFsZ7FPkKLsOfk-1)
 
 - [**Figma Mobile View Prototype**](https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102)
 
