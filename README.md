@@ -2,7 +2,10 @@
 
 
 
-## 1. Sample Portfolio
+## 1. Portfolio Website — Built as Part of Figma & Front-End Learning Program
+
+- This project followed a guided course curriculum where I practiced implementing a design brief from a tutor. While the visual style was provided, I focused on responsive layout, HTML/CSS, and building a live site from a Figma file.
+- In hindsight, I’d redesign the visuals to better reflect my style — but this version shows my ability to follow structure, build to spec, and deploy a live result.
 
 [**Figma Project**](https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=4FbRWBSk8xvpYJKA-1)
 
