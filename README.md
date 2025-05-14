@@ -28,7 +28,7 @@
 
 [**GitHub repo (HTML5, CSS3, JavaScript)**](https://github.com/HelinaJarvesaar/myPortfolio.git)
 
-[**Responsive Webpage**](https://helinajarvesaar.github.io/myPortfolio/)
+[**LINK to Page**](https://helinajarvesaar.github.io/myPortfolio/)
 
 
 **Screenshots:**
