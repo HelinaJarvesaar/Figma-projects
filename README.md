@@ -24,7 +24,7 @@
 
 <img width="700" alt="Screenshot 2025-05-14 at 18 50 31" src="https://github.com/user-attachments/assets/049db8cb-9bd9-4847-bac9-2d0415e9930f" />
 
-## 2. Apple Pie Recipe
+## 2. Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
 
 [**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1)
 
