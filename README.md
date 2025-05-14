@@ -43,7 +43,9 @@
 <img width="243" alt="Screenshot 2025-04-29 at 17 12 02" src="https://github.com/user-attachments/assets/fc524358-4620-4d71-9f30-ecd7493b38b2" />
 
 
-## 3. Luxury Jewelry Webpage
+## 3. Luxury Jewelry Landing Page – Visual & Front-End Practice
+
+- I created this marketing-style landing page as a visual and front-end coding exercise. While it’s not based on a UX case study, it shows my ability to work with layout, branding, and responsive design principles.
 
 [**GitHub repo (HTML, CSS codes)**](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
 
