@@ -1,14 +1,22 @@
 # 1. Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
 
+### Overview:
+
 - I created this as a UX/UI learning project to explore mobile-first cooking tools that are easy to use while actually cooking.
 - Problem - People often cook with phones nearby but find it hard to scroll, read long texts, or track steps while multitasking.
 - Goal - Create a mobile app that lets users quickly find and follow recipes with large steps, simple navigation, and minimal distractions.
 
-[**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1)
+### Technologies Used:
 
-[**Figma Mobile View Prototype**](https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102)
+- Figma
 
-**Screenshots:**
+### Project Links:
+
+- [**Figma Project**](https://www.figma.com/design/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=0-1&t=4N4hOn9eZNf6Dh51-1)
+
+- [**Figma Mobile View Prototype**](https://www.figma.com/proto/8jIreVtw1FaHL20w48C1SS/Apple-Pie-Project?node-id=187-102&p=f&t=KHTrI6ccKblP725n-1&scaling=scale-down&content-scaling=fixed&page-id=50%3A73&starting-point-node-id=187%3A102)
+
+### Screenshots:
 
 <img width="500" alt="Screenshot 2025-04-29 at 17 32 08" src="https://github.com/user-attachments/assets/d1975ce4-a136-4a60-a3f2-4da6494ea355" />
 <img width="150" alt="Screenshot 2025-04-29 at 17 28 56" src="https://github.com/user-attachments/assets/b6746a9c-2b23-42ca-8c72-4a7bf3e15d69" />
@@ -19,19 +27,29 @@
 
 # 2. Portfolio Website — Built as Part of Figma & Front-End Learning Program
 
+### Overview:
+
 - This project followed a guided course curriculum where I practiced implementing a design brief from a tutor. While the visual style was provided, I focused on responsive layout, HTML/CSS, and building a live site from a Figma file.
 - In hindsight, I’d redesign the visuals to better reflect my style — but this version shows my ability to follow structure, build to spec, and deploy a live result.
 
-[**Figma Project**](https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=4FbRWBSk8xvpYJKA-1)
+### Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Figma
 
-[**Figma Mobile Prototype**](https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-967&p=f&t=chj3dTZFTtzEDr1R-1&scaling=scale-down&content-scaling=fixed&page-id=39%3A964&starting-point-node-id=39%3A967)
+### Project Links:  
 
-[**GitHub repo (HTML5, CSS3, JavaScript)**](https://github.com/HelinaJarvesaar/myPortfolio.git)
+- [**Figma Project**](https://www.figma.com/design/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-1041&t=4FbRWBSk8xvpYJKA-1)
 
-[**LINK to Responsive Page**](https://helinajarvesaar.github.io/myPortfolio/)
+- [**Figma Mobile Prototype**](https://www.figma.com/proto/EVdgivg9Nz12JI5q6i0ECV/MyPortfolio?node-id=39-967&p=f&t=chj3dTZFTtzEDr1R-1&scaling=scale-down&content-scaling=fixed&page-id=39%3A964&starting-point-node-id=39%3A967)
+
+- [**GitHub repo (HTML5, CSS3, JavaScript)**](https://github.com/HelinaJarvesaar/myPortfolio.git)
+
+- [**LINK to Responsive Page**](https://helinajarvesaar.github.io/myPortfolio/)
 
 
-**Screenshots:**
+### Screenshots:
 
 <img width="400" alt="Screenshot 2025-04-29 at 16 58 22" src="https://github.com/user-attachments/assets/a13d19e3-96f4-46bd-8828-72a6d1b8821d" />
 <img width="250" alt="Screenshot 2025-04-29 at 16 59 07" src="https://github.com/user-attachments/assets/9a6f0ac1-b0b0-4172-bd31-0b115c61079c" />
