@@ -1,3 +1,8 @@
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="40" />
+
+
+
 # 🥧 Recipe App – Personal UX/UI Concept for Mobile Cooking Tool
 
 ## Overview:
