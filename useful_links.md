@@ -26,3 +26,6 @@
 22. Google fonts: https://fonts.google.com
 23. Clip path generator: https://bennettfeely.com/clippy/
 24. CSS Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
+25. https://balsamiq.com
+26. https://maze.com
+
